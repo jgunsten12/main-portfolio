@@ -28,7 +28,7 @@ export interface AboutSection {
 export interface ProfileData {
   name: string;
   title: string;
-  subtitle: string;
+  subtitle?: string;
   tagline: string;
   headshot: string;
   linkedinUrl: string;

@@ -18,14 +18,14 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "Jack Gunsten | Portfolio",
-  description: "Building the future at Square. Combining technical depth with product intuition to build AI-powered experiences that drive real impact.",
-  keywords: ["AI", "Product Manager", "Machine Learning", "Portfolio", "Square", "RevOps", "Data"],
+  description: "Jack Gunsten's portfolio. Combining technical depth with product intuition to build AI-powered experiences that drive real impact.",
+  keywords: ["AI", "Product Manager", "Machine Learning", "Portfolio", "RevOps", "Data"],
   authors: [{ name: "Jack Gunsten" }],
   creator: "Jack Gunsten",
   metadataBase: new URL("https://jackgunsten.com"),
   openGraph: {
     title: "Jack Gunsten | Portfolio",
-    description: "Building the future at Square",
+    description: "Jack Gunsten's portfolio",
     type: "website",
     locale: "en_US",
     siteName: "Jack Gunsten Portfolio",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Jack Gunsten | Portfolio",
-    description: "Building the future at Square",
+    description: "Jack Gunsten's portfolio",
   },
   robots: {
     index: true,

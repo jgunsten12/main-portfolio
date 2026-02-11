@@ -24,14 +24,12 @@ export default function Hero() {
                   d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
                 />
               </svg>
-              APM PORTFOLIO
+              GTM + AI ENGINEERING
             </div>
 
             {/* Main Heading */}
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-6">
-              <span className="text-gray-900">{profileData.title}</span>
-              <br />
-              <span className="text-gray-400">{profileData.subtitle}</span>
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight mb-6 text-gray-900">
+              {profileData.title}
             </h1>
 
             {/* Tagline */}

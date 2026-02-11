@@ -2,9 +2,8 @@ import { ProfileData } from './types';
 
 export const profileData: ProfileData = {
   name: "Jack Gunsten",
-  title: "Building the future",
-  subtitle: "at Square.",
-  tagline: "Combining technical depth with product intuition to build AI-powered experiences that empower economic empowerment.",
+  title: "Jack Gunsten",
+  tagline: "Combining technical depth with product intuition to build AI-powered experiences that drive real impact.",
   headshot: "/images/headshot.jpg", // Replace with your actual headshot
   linkedinUrl: "https://www.linkedin.com/in/jack-gunsten-94b344182/",
   githubUrl: "https://github.com/jgunsten12",
@@ -28,6 +27,7 @@ export const profileData: ProfileData = {
     skills: {
       title: "Technical Skills",
       items: [
+        "GTM: Outbound campaigns, AI-powered workflows, Lead enrichment",
         "Data Pipelines: ETL, Data Warehouse, BI",
         "Development: Cursor, v0, Python, Typescript, SQL",
         "Tools: LLM's, PostgreSQL Databse, no-code & low-code tools",
