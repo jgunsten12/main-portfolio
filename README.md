@@ -2,6 +2,8 @@
 
 A modern portfolio website built with Next.js 16, React 19, and Tailwind CSS 4. Optimized for deployment on Vercel.
 
+This repo was cloned and customized from a previous project to serve as my personal portfolio (GTM & AI Engineering).
+
 ## Features
 
 - Responsive design with modern UI
@@ -63,7 +65,7 @@ Projects are fetched from a public Google Sheet. To use your own sheet:
 
 ## Deploy on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jgunsten12/ai-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jgunsten12/main-portfolio)
 
 1. Push to GitHub
 2. Import project in Vercel
